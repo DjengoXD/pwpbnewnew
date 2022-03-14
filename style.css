@@ -1,0 +1,27 @@
+.jumbotron {
+    background-color: rgb(129, 116, 129);
+  font-family: 'Merriweather', serif;
+    padding-top: 5rem;
+    
+  }
+  .body{
+    font-family: 'Festive', cursive;
+    font-family: 'Merriweather', serif;
+
+
+  }
+  .emot {
+    font-size: 1000px;
+  }
+  .body {
+    height: 5000px;
+  }
+  #home {
+    background-color: #f3f4f5;
+  }
+  #kontak {
+  }
+  .facebook {
+    background-color: #f3f4f5;
+  }
+  
